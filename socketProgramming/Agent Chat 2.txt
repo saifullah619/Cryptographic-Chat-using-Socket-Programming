@@ -1,0 +1,10 @@
+[09:49 PM]:~$ python3 Agent.py
+Enter the connection code: KTV906144
+I saw a purple Kangaroo yesterday, did you?
+Answer: Only after the sun went down
+Welcome Agent B Time Logged 2021-10-25 21:50:27
+[09:50 PM]:~$ python3 Agent.py
+Enter the connection code: DFG282975
+What did Eve say when she ate the fruit?
+Answer: Nothing
+Welcome Agent A Time Logged 2021-10-25 22:46:19
